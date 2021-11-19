@@ -4,6 +4,6 @@ This repository contains code in MATLAB language from my Aerospace Design, Test,
 
 List of problems
 
-Create_ellipse: plots an ellipse using the semi-major axis length (a), semi-minor axis length (b) and number of points in each half of ellipse (N).
+Create_ellipse: Plots an ellipse using the semi-major axis length (a), semi-minor axis length (b) and number of points in each half of ellipse (N).
 
-Northrop Grumman F14: 
+NorthropGrummanF14: A script that calculates the Aspect Ratio and Mean Chord for the Northrop Grumman F14 at different sweep angles and plots them.
